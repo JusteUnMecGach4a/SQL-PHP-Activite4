@@ -1,0 +1,47 @@
+body{
+          font-family: 'Open Sans', sans-serif;
+          background:linear-gradient(60deg,red,blue);/*dégradé de couleurs*/
+          margin: 0 auto 0 auto;      
+          text-align:center;
+        }
+p{
+          font-size:1.5em;
+          text-decoration: none;
+          color:#ffffff;
+          margin :15px;
+        }
+h1{
+          font-size:2em;
+          color:#000000;
+        }
+a { color: #fff;
+      font-size: 2em  }
+
+ul{ list-style-type: none;
+
+        }
+
+table { /* centrage table*/
+      margin :auto;
+      color:#0000ff;
+      background:white;
+      width: 320px;
+}
+th {background:yellow;
+}
+   
+.lignePaire{
+  background:#cccccc;
+}   
+
+div {
+  opacity: 1;
+  position: relative;
+}
+
+
+
+
+
+
+
